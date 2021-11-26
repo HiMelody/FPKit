@@ -1,0 +1,6 @@
+framework module Pods_FPKit {
+  umbrella header "Pods-FPKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
